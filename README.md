@@ -1,2 +1,2 @@
-# Data-Cleaning
-This is a small collection of projects highlighting my data cleaning skills in different languages.
+# Data Cleaning
+Ahhh data cleaning. The thing that data professionals love to hate, but know it's vitally important for any data project. The data cleaning and preparation process can make up upwards of 80% of an analysts time spent on a project. For this reason, having a clear and repeatable data cleaning process is important. Here are a few projects that I've put together highlighting my data cleaning skills in different languages.
